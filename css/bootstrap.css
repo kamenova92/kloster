@@ -1090,7 +1090,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #F4F6F8;
   text-decoration: none;
 }
 a:hover,
@@ -6566,5 +6566,8 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+#special1 {
+display: none;
 }
 /*# sourceMappingURL=bootstrap.css.map */
